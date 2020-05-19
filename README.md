@@ -16,7 +16,7 @@ Tweets will have the following format:
 #COVID19PT #COVID
 ```
 
-All data comes from [VOST Portugal's API](https://covid19-api.vost.pt). Props to them. 👏
+All data comes from [VOST Portugal's REST API](https://covid19-api.vost.pt). Props to them. 👏
 
 ## Running the app
 
