@@ -1,9 +1,9 @@
 # 🤖 COVID-19 Twitter Bot
 
 This repository was created as a playground to get to know the Twitter API and the twitter gem.
-The result was a simple bot that tweets the most recent data about COVID-19 in Portugal.
+The result was a simple bot that tweets the most recent data (in this [profile](https://twitter.com/COVID19PTBot)) about COVID-19 in Portugal.
 
-Tweets will have the following format:
+Tweets have the following format:
 
 ```
 🦠 Actualização // 19-05-2020 🦠
