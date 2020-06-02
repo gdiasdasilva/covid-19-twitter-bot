@@ -21,7 +21,8 @@ class TweetService
       "que no dia anterior)\n" \
     "💪 Casos recuperados: #{@data[:recovered]}\n" \
     "🏥 Internados em UCI: #{@data[:interned_icu].to_i}\n" \
-    "⚰️ Óbitos: #{@data[:deaths]}\n\n" \
+    "⚰️ Óbitos: #{@data[:deaths]} (+#{@data[:deaths_new]} " \
+      "que no dia anterior)\n\n" \
     "#COVID19PT #COVID"
   end
 
